@@ -1,0 +1,499 @@
+{
+  "users": [
+    {
+      "id": "1690364471167",
+      "email": "manishthapaliya8888@gmail.com",
+      "password": "TheOneAbove0",
+      "birthDate": "2001-09-27",
+      "creationDate": "2025-03-29",
+      "modificationDate": "2025-03-29",
+      "profileImage": "",
+      "userName": "TheOneABove0",
+      "favorite": [
+        {
+          "id": "t5",
+          "name": "Attention",
+          "src": "/musics/trends/attention.mp3",
+          "artist": "Charlie Puth",
+          "coverImage": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 110000000
+        },
+        {
+          "id": "t3",
+          "name": "Only Human",
+          "src": "/musics/trends/only human.mp3",
+          "artist": "Jonas Brothers",
+          "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 25000000
+        }
+      ],
+      "recent": [
+        {
+          "id": "t7",
+          "name": "ROSÉ & Bruno Mars - APT",
+          "src": "/musics/trends/ROSÉ & Bruno Mars - APT.mp3",
+          "artist": "ROSÉ & Bruno Mars",
+          "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 73000000
+        }
+      ],
+      "playLists": [
+        {
+          "id": 1691496877393,
+          "creationDate": 1691496877393,
+          "title": "My First Play List",
+          "description": "i don't have anything to say here",
+          "color": "#16ffc5",
+          "avatar": "",
+          "userName": "TheOneABove0",
+          "favorite": [],
+          "recent": [],
+          "playLists": []
+        }
+      ]
+    },
+    {
+      "id": "1743231911519",
+      "email": "manishthapaliya888@gmail.com",
+      "password": "Test@123",
+      "birthDate": 1015956900000,
+      "creationDate": 1743231911519,
+      "modificationDate": 1743242057971,
+      "profileImage": null,
+      "userName": null,
+      "favorite": [],
+      "recent": [
+        null,
+        {
+          "id": "t2",
+          "name": "Billie Eilish - BIRDS OF A FEATHER",
+          "src": "/musics/trends/Billie Eilish - BIRDS OF A FEATHER (Official Music Video).mp3",
+          "artist": "Billie Eilish",
+          "coverImage": "https://images.unsplash.com/photo-1553649084-3e42773ff0e3?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 87000000
+        },
+        {
+          "id": "t1",
+          "name": "Anxiety",
+          "src": "/musics/trends/Anxiety _ COVEN MUSIC SESSION.mp3",
+          "artist": "COVEN",
+          "coverImage": "https://images.unsplash.com/photo-1499415479124-43c32433a620?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/3756766/pexels-photo-3756766.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 45000000
+        }
+      ],
+      "playLists": []
+    }
+  ],
+  "musics": [
+    {
+      "id": "m1",
+      "name": "Ed Sheeran - Perfect",
+      "src": "/musics/Ed Sheeran - Perfect (Lyrics) _ John Legend, Lewis Capaldi, Ali Gatie,… (Mx) 🎻.mp3",
+      "artist": "Ed Sheeran",
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 453000000
+    },
+    {
+      "id": "m2",
+      "name": "Ed Sheeran - Shape of You",
+      "src": "/musics/Ed Sheeran - Shape of You (Official Music Video).mp3",
+      "artist": "Ed Sheeran",
+      "coverImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 587000000
+    },
+    {
+      "id": "m3",
+      "name": "Justin Bieber - Sorry",
+      "src": "/musics/Justin Bieber - Sorry (PURPOSE _ The Movement).mp3",
+      "artist": "Justin Bieber",
+      "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 356000000
+    },
+    {
+      "id": "m4",
+      "name": "Let Her Go, Photograph, 7 Years",
+      "src": "/musics/Let Her Go, Photograph, 7 Years - Passenger, Ed Sheeran, Lukas Graham Lyrics.mp3",
+      "artist": "Various Artists",
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/3971985/pexels-photo-3971985.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 128000000
+    },
+    {
+      "id": "m5",
+      "name": "Maroon 5 - Sugar",
+      "src": "/musics/Maroon 5 - Sugar (Official Music Video).mp3",
+      "artist": "Maroon 5",
+      "coverImage": "https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/210922/pexels-photo-210922.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 346000000
+    },
+    {
+      "id": "m6",
+      "name": "OneRepublic - Counting Stars",
+      "src": "/musics/OneRepublic - Counting Stars.mp3",
+      "artist": "OneRepublic",
+      "coverImage": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/1482476/pexels-photo-1482476.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 298000000
+    },
+    {
+      "id": "m7",
+      "name": "Wiz Khalifa - See You Again ft. Charlie Puth",
+      "src": "/musics/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3",
+      "artist": "Wiz Khalifa ft. Charlie Puth",
+      "coverImage": "https://images.unsplash.com/photo-1485579149621-3123dd979885?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 542000000
+    }
+  ],
+  "trends": [
+    {
+      "id": "t1",
+      "name": "Anxiety",
+      "src": "/musics/trends/Anxiety _ COVEN MUSIC SESSION.mp3",
+      "artist": "COVEN",
+      "coverImage": "https://images.unsplash.com/photo-1499415479124-43c32433a620?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/3756766/pexels-photo-3756766.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 45000000
+    },
+    {
+      "id": "t2",
+      "name": "Billie Eilish - BIRDS OF A FEATHER",
+      "src": "/musics/trends/Billie Eilish - BIRDS OF A FEATHER (Official Music Video).mp3",
+      "artist": "Billie Eilish",
+      "coverImage": "https://images.unsplash.com/photo-1553649084-3e42773ff0e3?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 87000000
+    },
+    {
+      "id": "t3",
+      "name": "Only Human",
+      "src": "/musics/trends/only human.mp3",
+      "artist": "Jonas Brothers",
+      "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 25000000
+    },
+    {
+      "id": "t4",
+      "name": "Without Me",
+      "src": "/musics/trends/without me.mp3",
+      "artist": "Halsey",
+      "coverImage": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/1881165/pexels-photo-1881165.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 63000000
+    },
+    {
+      "id": "t5",
+      "name": "Attention",
+      "src": "/musics/trends/attention.mp3",
+      "artist": "Charlie Puth",
+      "coverImage": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 110000000
+    },
+    {
+      "id": "t6",
+      "name": "Lady Gaga, Bruno Mars - Die With A Smile",
+      "src": "/musics/trends/Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video) (1).mp3",
+      "artist": "Lady Gaga, Bruno Mars",
+      "coverImage": "https://images.unsplash.com/photo-1501612780327-45045538702b?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 92000000
+    },
+    {
+      "id": "t7",
+      "name": "ROSÉ & Bruno Mars - APT",
+      "src": "/musics/trends/ROSÉ & Bruno Mars - APT.mp3",
+      "artist": "ROSÉ & Bruno Mars",
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 73000000
+    }
+  ],
+  "artists": [
+    {
+      "id": "a1",
+      "name": "Ed Sheeran",
+      "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m1",
+          "name": "Ed Sheeran - Perfect",
+          "src": "/musics/Ed Sheeran - Perfect (Lyrics) _ John Legend, Lewis Capaldi, Ali Gatie,… (Mx) 🎻.mp3",
+          "artist": "Ed Sheeran",
+          "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 453000000
+        },
+        {
+          "id": "m2",
+          "name": "Ed Sheeran - Shape of You",
+          "src": "/musics/Ed Sheeran - Shape of You (Official Music Video).mp3",
+          "artist": "Ed Sheeran",
+          "coverImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 587000000
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "name": "Justin Bieber",
+      "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m3",
+          "name": "Justin Bieber - Sorry",
+          "src": "/musics/Justin Bieber - Sorry (PURPOSE _ The Movement).mp3",
+          "artist": "Justin Bieber",
+          "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 356000000
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "name": "Maroon 5",
+      "avatar": "https://images.pexels.com/photos/210922/pexels-photo-210922.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m5",
+          "name": "Maroon 5 - Sugar",
+          "src": "/musics/Maroon 5 - Sugar (Official Music Video).mp3",
+          "artist": "Maroon 5",
+          "coverImage": "https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/210922/pexels-photo-210922.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 346000000
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "name": "OneRepublic",
+      "avatar": "https://images.pexels.com/photos/1482476/pexels-photo-1482476.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m6",
+          "name": "OneRepublic - Counting Stars",
+          "src": "/musics/OneRepublic - Counting Stars.mp3",
+          "artist": "OneRepublic",
+          "coverImage": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/1482476/pexels-photo-1482476.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 298000000
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "name": "Wiz Khalifa",
+      "avatar": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m7",
+          "name": "Wiz Khalifa - See You Again ft. Charlie Puth",
+          "src": "/musics/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3",
+          "artist": "Wiz Khalifa ft. Charlie Puth",
+          "coverImage": "https://images.unsplash.com/photo-1485579149621-3123dd979885?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 542000000
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "name": "Bruno Mars",
+      "avatar": "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "t6",
+          "name": "Lady Gaga, Bruno Mars - Die With A Smile",
+          "src": "/musics/trends/Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video) (1).mp3",
+          "artist": "Lady Gaga, Bruno Mars",
+          "coverImage": "https://images.unsplash.com/photo-1501612780327-45045538702b?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 92000000
+        },
+        {
+          "id": "t7",
+          "name": "ROSÉ & Bruno Mars - APT",
+          "src": "/musics/trends/ROSÉ & Bruno Mars - APT.mp3",
+          "artist": "ROSÉ & Bruno Mars",
+          "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 73000000
+        }
+      ]
+    },
+    {
+      "id": "a7",
+      "name": "Charlie Puth",
+      "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "t5",
+          "name": "Attention",
+          "src": "/musics/trends/attention.mp3",
+          "artist": "Charlie Puth",
+          "coverImage": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 110000000
+        }
+      ]
+    }
+  ],
+  "top-musics": [
+    {
+      "id": "m2",
+      "name": "Ed Sheeran - Shape of You",
+      "src": "/musics/Ed Sheeran - Shape of You (Official Music Video).mp3",
+      "artist": "Ed Sheeran",
+      "coverImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 587000000
+    },
+    {
+      "id": "m7",
+      "name": "Wiz Khalifa - See You Again ft. Charlie Puth",
+      "src": "/musics/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3",
+      "artist": "Wiz Khalifa ft. Charlie Puth",
+      "coverImage": "https://images.unsplash.com/photo-1485579149621-3123dd979885?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 542000000
+    },
+    {
+      "id": "m1",
+      "name": "Ed Sheeran - Perfect",
+      "src": "/musics/Ed Sheeran - Perfect (Lyrics) _ John Legend, Lewis Capaldi, Ali Gatie,… (Mx) 🎻.mp3",
+      "artist": "Ed Sheeran",
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 453000000
+    },
+    {
+      "id": "m3",
+      "name": "Justin Bieber - Sorry",
+      "src": "/musics/Justin Bieber - Sorry (PURPOSE _ The Movement).mp3",
+      "artist": "Justin Bieber",
+      "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 356000000
+    },
+    {
+      "id": "t5",
+      "name": "Attention",
+      "src": "/musics/trends/attention.mp3",
+      "artist": "Charlie Puth",
+      "coverImage": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=300",
+      "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "playedCount": 110000000
+    }
+  ],
+  "top-artists": [
+    {
+      "id": "a1",
+      "name": "Ed Sheeran",
+      "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m2",
+          "name": "Ed Sheeran - Shape of You",
+          "src": "/musics/Ed Sheeran - Shape of You (Official Music Video).mp3",
+          "artist": "Ed Sheeran",
+          "coverImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/4709822/pexels-photo-4709822.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 587000000
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "name": "Wiz Khalifa",
+      "avatar": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m7",
+          "name": "Wiz Khalifa - See You Again ft. Charlie Puth",
+          "src": "/musics/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3",
+          "artist": "Wiz Khalifa ft. Charlie Puth",
+          "coverImage": "https://images.unsplash.com/photo-1485579149621-3123dd979885?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 542000000
+        }
+      ]
+    },
+    {
+      "id": "a7",
+      "name": "Charlie Puth",
+      "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "t5",
+          "name": "Attention",
+          "src": "/musics/trends/attention.mp3",
+          "artist": "Charlie Puth",
+          "coverImage": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/2426085/pexels-photo-2426085.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 110000000
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "name": "Justin Bieber",
+      "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m3",
+          "name": "Justin Bieber - Sorry",
+          "src": "/musics/Justin Bieber - Sorry (PURPOSE _ The Movement).mp3",
+          "artist": "Justin Bieber",
+          "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/1644616/pexels-photo-1644616.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 356000000
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "name": "Maroon 5",
+      "avatar": "https://images.pexels.com/photos/210922/pexels-photo-210922.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m5",
+          "name": "Maroon 5 - Sugar",
+          "src": "/musics/Maroon 5 - Sugar (Official Music Video).mp3",
+          "artist": "Maroon 5",
+          "coverImage": "https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/210922/pexels-photo-210922.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 346000000
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "name": "OneRepublic",
+      "avatar": "https://images.pexels.com/photos/1482476/pexels-photo-1482476.jpeg?auto=compress&cs=tinysrgb&w=100",
+      "musics": [
+        {
+          "id": "m6",
+          "name": "OneRepublic - Counting Stars",
+          "src": "/musics/OneRepublic - Counting Stars.mp3",
+          "artist": "OneRepublic",
+          "coverImage": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=300",
+          "avatar": "https://images.pexels.com/photos/1482476/pexels-photo-1482476.jpeg?auto=compress&cs=tinysrgb&w=100",
+          "playedCount": 298000000
+        }
+      ]
+    }
+  ]
+}
